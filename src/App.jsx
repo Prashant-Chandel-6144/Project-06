@@ -27,7 +27,7 @@ function App() {
     <>
     <h1>Random Cat</h1>
       <RandomCat 
-        id={randomCat?.id}
+
         name={randomCat?.name}
         description={randomCat?.description}
         image={randomCat?.image}
